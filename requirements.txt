@@ -6,3 +6,4 @@ selenium
 yookassa
 requests
 datetime
+fake_useragent
