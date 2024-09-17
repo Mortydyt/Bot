@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+python-dotenv
+peewee
+bs4
+selenium
+python -m pip install --upgrade pip
+yookassa
+requests
+datetime
